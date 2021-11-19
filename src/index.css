@@ -1,6 +1,12 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 
 /* custom colors  */
+
+body{
+	line-height: 1.0;
+	font-family: 'Poppins', sans-serif;
+  background-color: rgb(183, 231, 227);
+}
 
 * {
   margin: 0;
@@ -8,6 +14,19 @@
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
 }
+
+.app {
+  min-height: 32em;
+  /* min-height: 78vh; */
+  /* border: 8px solid #39445a93; */
+  margin: 4px;
+  padding: 30px;
+  
+  /* justify-content: center;
+  align-items: center;
+  text-align: center; */
+ 
+} 
 
 :root {
   --bgcolor: #f1f5fd;
@@ -35,76 +54,6 @@ h6 {
 }
 
 
-/* ----------- navbar css style starts ---------------*/
-
-.navbar-bg {
-  background-color: var(--bgcolor);
-  padding: 1rem 0;
-  z-index: 99;
-  position: relative;
-}
-
-.navbar-brand {
-  font-size: 2.5rem;
-  color: blue !important;
-  font-weight: bold;
-}
-
-.navbar li {
-  padding: 0 0.5rem;
-}
-
-.navbar li a {
-  font-size: 1rem;
-  font-weight: lighter;
-  position: relative;
-}
-
-.menu_active {
-  font-weight: bold;
-  border-bottom: 1px solid #565387;
-}
-
-.navbar li a:hover {
-  color: var(--primary-color) !important;
-  text-shadow: 0 0.2rem 0.3rem rgba(183, 171, 255, 0.5);
-}
-
-.btn-style {
-  width: 7rem;
-  height: 3rem;
-  border-radius: 2rem;
-  color: #fff;
-  background-color: var(--primary-color);
-  text-transform: capitalize;
-  font-size: 1rem;
-}
-
-.btn-style:first-child {
-  margin-right: 1rem;
-}
-
-.btn-style:hover {
-  border: 0.1rem solid var(--primary-color);
-  background-color: transparent;
-  color: var(--primary-color);
-  box-shadow: 0 0.2rem 0.5rem rgba(183, 171, 255, 0.5);
-}
-
-.btn-style-border {
-  border: 0.1rem solid var(--primary-color);
-  background-color: transparent;
-  color: var(--primary-color);
-  box-shadow: 0 0.2rem 0.5rem rgba(183, 171, 255, 0.5);
-}
-
-.btn-style-border:hover {
-  color: #fff;
-  background-color: var(--primary-color);
-  text-transform: capitalize;
-}                       
-                        
-/* -------- Navbar ends  --------------------*/
   
  /* #Main Landing Section  */
 

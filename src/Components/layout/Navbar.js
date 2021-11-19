@@ -67,9 +67,27 @@ const Navbar = () => {
                                     </NavLink>
                                 </li>
 
+                                <li className="nav-item">
+                                    <NavLink
+                                        activeClassName="menu_active"
+                                        className="nav-link"
+                                        exact to="/register"
+                                        activeStyle={{ color: 'blue', fontWeight: 'bold' }}>
+                                        Register
+                                    </NavLink>
+                                </li>
+                                <li className="nav-item">
+                                    <NavLink
+                                        activeClassName="menu_active"
+                                        className="nav-link"
+                                        exact to="/login"
+                                        activeStyle={{ color: 'blue', fontWeight: 'bold' }}>
+                                        Log In
+                                    </NavLink>
+                                </li>
 
                             </ul>
-                            <form className="d-flex">
+                            {/* <form className="d-flex">
 
                                 <button className="btn  btn-style btn-style-border " type="submit">
                                     Sign Up
@@ -77,7 +95,7 @@ const Navbar = () => {
                                 <button className="btn  btn-style btn-style-border " type="submit">
                                     Log In
                                 </button>
-                            </form>
+                            </form> */}
                         </div>
                     </div>
                 </nav>
