@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/loki007/static/css/main.d6a20f00.chunk.css",
-    "main.js": "/loki007/static/js/main.87bd0e87.chunk.js",
-    "main.js.map": "/loki007/static/js/main.87bd0e87.chunk.js.map",
+    "main.css": "/loki007/static/css/main.e027ca51.chunk.css",
+    "main.js": "/loki007/static/js/main.35cf8307.chunk.js",
+    "main.js.map": "/loki007/static/js/main.35cf8307.chunk.js.map",
     "runtime-main.js": "/loki007/static/js/runtime-main.de99e3dc.js",
     "runtime-main.js.map": "/loki007/static/js/runtime-main.de99e3dc.js.map",
-    "static/js/2.0de27b72.chunk.js": "/loki007/static/js/2.0de27b72.chunk.js",
-    "static/js/2.0de27b72.chunk.js.map": "/loki007/static/js/2.0de27b72.chunk.js.map",
+    "static/js/2.7821b49e.chunk.js": "/loki007/static/js/2.7821b49e.chunk.js",
+    "static/js/2.7821b49e.chunk.js.map": "/loki007/static/js/2.7821b49e.chunk.js.map",
     "index.html": "/loki007/index.html",
-    "static/css/main.d6a20f00.chunk.css.map": "/loki007/static/css/main.d6a20f00.chunk.css.map",
-    "static/js/2.0de27b72.chunk.js.LICENSE.txt": "/loki007/static/js/2.0de27b72.chunk.js.LICENSE.txt"
+    "static/css/main.e027ca51.chunk.css.map": "/loki007/static/css/main.e027ca51.chunk.css.map",
+    "static/js/2.7821b49e.chunk.js.LICENSE.txt": "/loki007/static/js/2.7821b49e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.de99e3dc.js",
-    "static/js/2.0de27b72.chunk.js",
-    "static/css/main.d6a20f00.chunk.css",
-    "static/js/main.87bd0e87.chunk.js"
+    "static/js/2.7821b49e.chunk.js",
+    "static/css/main.e027ca51.chunk.css",
+    "static/js/main.35cf8307.chunk.js"
   ]
 }
