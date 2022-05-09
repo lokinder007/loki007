@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# GitHub Page link
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+GitHub Page: https://lokinder007.github.io/loki007/
 
 ## Available Scripts
 
