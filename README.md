@@ -1,6 +1,7 @@
 # GitHub Page link
 
-GitHub Page: https://lokinder007.github.io/loki007/
+
+GitHub Page [Loki007](https://lokinder007.github.io/loki007/).
 
 ## Available Scripts
 
